@@ -1,0 +1,61 @@
+# Node
+default.node_modules/
+node_modules/
+**/node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Build output
+build/
+dist/
+.eslintcache
+.cache/
+coverage/
+.next/
+.out/
+.temp/
+.tmp/
+
+# Frontend (CRA/Vite)
+frontend/myapp/build/
+*.tsbuildinfo
+
+# Environment files
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+*.swp
+*.swo
+*.orig
+
+# Media and large binaries
+# Ignore music contents but keep folder via .gitkeep
+backend/db/Music/*
+!backend/db/Music/.gitkeep
+
+# Local data
+backend/db/*.sqlite
+backend/db/*.db
