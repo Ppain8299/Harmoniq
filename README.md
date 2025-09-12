@@ -54,7 +54,3 @@ Place `.mp3` files in `backend/db/Music/`. On server start, the catalog is scann
 ## Contributing
 - Use feature branches and conventional commit messages
 - Keep secrets out of git; commit only `.env.example`
-
-## License
-MIT
-
